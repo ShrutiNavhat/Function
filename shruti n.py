@@ -1,14 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
 from tkinter import *
 root = Tk()
 def send():
